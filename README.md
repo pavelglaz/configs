@@ -1,2 +1,2 @@
-# configs
-Shared node.js configurations
+# Configs
+Shared node.js configurations.
